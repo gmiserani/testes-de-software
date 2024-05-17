@@ -1,0 +1,26 @@
+.header {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    height: 3em;
+    z-index: 1;
+}
+
+.symbol {
+    height: 2.5em;
+    width: 2.5em;
+    padding-left: 1em;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 1em;
+}
+
+.logoutLink {
+    height: 2em;
+    margin-left: 2em;
+}

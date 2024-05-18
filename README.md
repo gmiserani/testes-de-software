@@ -4,9 +4,9 @@
 
 1 - Gabriela Moraes Miserani de Freitas
 
-2 - Luisa Toledo Vascocelos
+2 - Luisa Vasconcelos de Castro Toledo
 
-3 - Lourenço Montenegro
+3 - Lourenço Ferreira Monteiro Dias Montenegro 
 
 4 - Maria Luiza Leão Silva
 

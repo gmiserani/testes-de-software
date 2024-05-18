@@ -2,10 +2,10 @@
 
 # membros do grupo:
 
-# 1 - Gabriela Moraes Miserani de Fritas
-# 2 - Luisa Toledo Vascocelos
-# 3 - Lourenço Montenegro
-# 4 - Maria Luiza Leão Silva
+1 - Gabriela Moraes Miserani de Fritas
+2 - Luisa Toledo Vascocelos
+3 - Lourenço Montenegro
+4 - Maria Luiza Leão Silva
 
 # Escopo do Sistema
 
@@ -13,8 +13,12 @@ Criar um ambiente para avaliar as matérias ofertadas e os professores do Depart
 
 # Tecnologias utilizadas
 
-JavaScript
-NodeJS
-React
-MySQL
-Typescript
+- JavaScript
+
+- NodeJS
+
+- React
+
+- MySQL
+
+- Typescript

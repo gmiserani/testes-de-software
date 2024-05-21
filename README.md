@@ -6,9 +6,7 @@
 
 2 - Luisa Vasconcelos de Castro Toledo
 
-3 - Lourenço Ferreira Monteiro Dias Montenegro 
-
-4 - Maria Luiza Leão Silva
+3 - Maria Luiza Leão Silva
 
 # Escopo do Sistema
 

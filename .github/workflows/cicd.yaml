@@ -38,8 +38,4 @@ jobs:
         cd client
         npm install
         npm run dev &
-    - name: Run Cypress tests
-      run: |
-        cd client
-        npm ci
         npx cypress run

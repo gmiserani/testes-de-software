@@ -1,4 +1,6 @@
+/* eslint-disable no-undef */
 /// <reference types="cypress" />
+
 
 describe('E2E tests', () => {
     const random = Math.floor(Math.random() * 100000);

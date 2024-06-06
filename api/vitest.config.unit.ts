@@ -6,6 +6,8 @@ export default defineConfig({
     test: {
         include: ["./src/test/*.test.ts"],
         coverage: {
+            include: ["./src/services/*.ts"],
+            // exclude: ["./src/test/*.ts"],
             provider: 'istanbul', // or 'v8'
             reporter: ['text', 'json', 'html'],
         },

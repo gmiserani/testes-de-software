@@ -9,6 +9,7 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - uses: actions/setup-node@v3
+    - uses: codecov/codecov-action@v2
       with:
         token: ${{ secrets.CODECOV_TOKEN }}
         node-version: '20'
@@ -26,6 +27,7 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - uses: actions/setup-node@v3
+    - uses: codecov/codecov-action@v2
       with:
         token: ${{ secrets.CODECOV_TOKEN }}
         node-version: '20'
@@ -41,6 +43,7 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - uses: actions/setup-node@v3
+    - uses: codecov/codecov-action@v2
       with:
         token: ${{ secrets.CODECOV_TOKEN }}
         node-version: '20'
